@@ -1,0 +1,51 @@
+//Pink color palette: https://coolors.co/fadde1-ffc4d6-ffa6c1-ff87ab-ff5d8f-ff97b7-ffacc5-ffcad4-f4acb7
+$color-pink-1: #ff5d8f;
+$color-pink-2: #ff87ab;
+$color-pink-3: #ff97b7;
+$color-pink-4: #ffa6c1;
+$color-pink-5: #f4acb7;
+$color-pink-6: #ffc4d6;
+$color-pink-7: #ffcad4;
+$color-pink-8: #fadde1;
+
+//Grey color palette: https://coolors.co/f8f9fa-dee2e6-adb5bd-495057-212529
+$color-grey-1: #212529;
+$color-grey-2: #495057;
+$color-grey-3: #adb5bd;
+$color-grey-4: #dee2e6;
+$color-grey-5: #f8f9fa;
+
+//Yellow color pallete: https://coolors.co/fff75e-ffe94e-ffda3d-fdc43f-fdb833
+$color-yellow-1: #fdb833;
+$color-yellow-2: #fdc43f;
+$color-yellow-3: #ffda3d;
+$color-yellow-4: #ffe94e;
+$color-yellow-5: #fff75e;
+
+//Blue color pallete: https://coolors.co/21295c-1b3b6f-065a82-1c7293-9eb3c2
+$color-blue-1: #21295c;
+$color-blue-2: #1b3b6f;
+$color-blue-3: #065a82;
+$color-blue-4: #1c7293;
+$color-blue-5: #9eb3c2;
+
+$color-danger: $color-pink-1;
+$color-hover: $color-grey-5;
+$color-hover-dark: $color-grey-2;
+$color-badge: $color-pink-3;
+$color-unselected: $color-grey-2;
+$color-selected: $color-pink-2;
+$color-text: $color-grey-2;
+$color-border: $color-grey-3;
+$color-link: $color-blue-4;
+
+// Media query screen boundries
+$smKey: "sm";
+$mdKey: "md";
+$lgKey: "lg";
+$xlgKey: "xlg";
+
+$sm: 600px;
+$md: 1000px;
+$lg: 1300px;
+$xlg: 1800px;
